@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="searchURL">http://mobile.twitter.com/search/</string>        
+        <string-array name="dialog_items">
+            <item >Share</item>
+            <item >Edit</item>
+            <item >Delete</item>
+        </string-array>
+        
+        <string name="shareSubject">Twitter search that might interest u</string>
+        <string name="Delete">delete</string>
+        <string name="confirmMessage">Are you sure you want to delete the search \"%s\"?</string>
+        <string name="OK">OK</string>
+        <string name="cancel">Cancel</string>
+        <string name="shareSearch">Share search to:</string>
+        <string name="shareMessage">Check out the results of this Twitter search: \"%s\"</string>
+        <string name="shareEditDeleteTitle">Share, Edit or Delete the search tagged as \"%s\"</string>
+        <string name="saveDescription">Touch this button to save your tagged search</string>
+        <string name="missingMessage2">enter tag and query - 2!!!</string>
+        <string name="taggedSearches">Tagged Searches</string>
+        <string name="app_name">twitter searches- erjan</string>
+        <string name="tagPrompt">tag your query</string>
+        <string name="queryPrompt">enter your TWITTER query here</string>
+    </resources>

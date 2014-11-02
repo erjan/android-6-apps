@@ -1,0 +1,5 @@
+1410682927216	Change Layout
+1410685444942	Extracts string 'null' into R.string.queryPrompt
+1410685885167	Extracts string 'null' into R.string.tagPrompt
+1410686016954	Extracts string 'null' into R.string.saveDescription
+1410686583169	Extracts string 'null' into R.string.taggedSearches

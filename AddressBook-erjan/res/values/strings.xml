@@ -1,0 +1,31 @@
+?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AddressBook-erjan</string>
+    <string name="no_contacts">no contacts!</string>
+    <string name="menuitem_add">add</string>
+    <string name="menuitem_edit">edit</string>
+    <string name="menuitem_delete">delete!</string>
+    <string name="button_save_contact">save contact</string>
+    <string name="hint_name">name(required!)</string>
+    <string name="hint_email">email</string>
+    <string name="hint_phone">phone</string>
+    <string name="hint_street">street</string>
+    <string name="hint_city">city</string>
+    <string name="hint_state">state</string>
+    <string name="hint_zip">zip</string>
+    <string name="label_name">Name:</string>
+    <string name="label_email">email:</string>
+    <string name="label_phone">phone:</string>
+    <string name="label_street">street:</string>
+    <string name="label_city">city:</string>
+    <string name="label_state">state:</string>
+    <string name="label_zip">zip:</string>
+    <string name="confirm_title">are you sure?</string>
+    <string name="confirm_message">this will delete forever the contact</string>
+    <string name="ok">ok!</string>
+    <string name="error_message">you must enter a contact name</string>
+    <string name="button_cancel">cancel</string>
+    <string name="button_delete">delete</string>
+
+</resources>

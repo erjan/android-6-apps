@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/welcomeRealtiveLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.deitel.welcome.MainActivity" >
+
+    <ImageView
+        android:id="@+id/bugImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/droidImageView"
+        android:layout_marginTop="22dp"
+        android:contentDescription="@string/deitel_logo"
+        android:src="@drawable/bug" />
+
+    <TextView
+        android:id="@+id/welcomeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/droidImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:gravity="center"
+        android:text="@string/normal_welcome"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="@dimen/welcomeTextSize" />
+
+    <ImageView
+        android:id="@+id/droidImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="104dp"
+        android:contentDescription="@string/android_logo"
+        android:src="@drawable/android" />
+
+</RelativeLayout>
